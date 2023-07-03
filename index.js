@@ -77,8 +77,6 @@ app.set('layout extractScripts', true);
 
 
 
-
-
 // setting up the view engine
 app.set('view engine', 'ejs');
 app.set('views', './views');
