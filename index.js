@@ -6,7 +6,6 @@ const env = require('./config/environment');
 // requiring the cookie parser module to parse the cookie
 const cookieParser = require('cookie-parser');
 
-
 const app = express();
 
 // The port on which our server will run
